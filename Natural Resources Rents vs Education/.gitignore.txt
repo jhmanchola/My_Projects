@@ -1,0 +1,4 @@
+Data/
+.ipynb_checkpoints/
+DSE_200X__Mini_Project_Presentation_Template.pptx
+DSE_200X__Mini_Project_Expenditure_in_Education_Compared_to_Extractive_Activity 
