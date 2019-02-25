@@ -1,4 +1,4 @@
 # My-Projects
 Portfolio of data science projects
 
-Through this repo I'm sharing my data science work. At the tome of creating this, I'm still new to the field, so I hope my work keeps getting more interesting and deep.
+Through this repo I'm sharing my data science projects using mostly Python. It's a work in progress so I hope it keeps getting more interesting and deep with time.
