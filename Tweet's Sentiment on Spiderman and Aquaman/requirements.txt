@@ -1,0 +1,7 @@
+nltk
+string
+re
+random
+collections
+pandas
+matplotlib.pyplot
