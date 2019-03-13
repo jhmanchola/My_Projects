@@ -3,4 +3,4 @@ This small project analyzes the activity in the comments section of posts taken 
 
 ![text](AskHN.png "Hacker News") </p>
 
-One way the data can reveal useful information is by looking at the number of comments and number of points obtained by the posts in Hacker News. This work was done in the attached [Notebook](My-Projects/Analyzing Hacker News Posts/Analyzing Hacker News Posts.ipynb)
+One way the data can reveal useful information is by looking at the number of comments and number of points obtained by the posts in Hacker News. This work was done in the attached [Notebook](https://github.com/marchhombre/My-Projects/Analyzing Hacker News Posts/Analyzing Hacker News Posts.ipynb)
