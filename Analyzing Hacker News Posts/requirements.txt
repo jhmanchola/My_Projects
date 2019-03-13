@@ -1,6 +1,5 @@
 pandas
 datetime
-matplotlib.pyplot
-matplotlib.ticker
+matplotlib
 seaborn
 warnings
