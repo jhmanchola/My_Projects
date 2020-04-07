@@ -12,3 +12,5 @@ This project is about ranking New York City High Schools by their SAT average sc
 Additionally, two survey datasets, survey_all.txt and survey_d75.txt were used to assemble the school evaluations done by teachers, parents and students.
 
 This project is divided in two parts: __Section 1__ aims to join all this information together until we can reach the step in __Section 2__ were we can start making correlations and plots.
+
+The project is 
