@@ -13,4 +13,4 @@ Additionally, two survey datasets, survey_all.txt and survey_d75.txt were used t
 
 This project is divided in two parts: __Section 1__ aims to join all this information together until we can reach the step in __Section 2__ were we can start making correlations and plots.
 
-The project is [here](Analyzing NYC High School Data/Guided Project_Analyzing NYC High School Data.ipynb) and there is another file [here]() that explains how the neighborhoods for each school were identified.
+The project is [here](https://github.com/jhmanchola/My_Projects/Analyzing NYC High School Data/Guided Project_Analyzing NYC High School Data.ipynb) and there is another file [here](https://github.com/jhmanchola/My_Projects/Analyzing NYC High School Data/Finding NYC Neigborhoods with best High Schools.ipynb) that explains how the neighborhoods for each school were identified.
